@@ -1,10 +1,10 @@
 <scheme name="MContrast" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-02-16T21:13:20</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2022.3.2.0.0</property>
-    <property name="modified">2023-02-16T21:13:27</property>
+    <property name="created">2023-02-19T14:56:41</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2022.3.1.0.0</property>
+    <property name="modified">2023-02-19T14:57:04</property>
     <property name="originalScheme">MContrast</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -83,7 +83,7 @@
     <option name="ScrollBar.Transparent.hoverTrackColor" value="e6e6e65a" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="0" />
     <option name="ScrollBar.Transparent.thumbColor" value="ffffffbe" />
-    <option name="ScrollBar.Transparent.trackColor" value="e6e6e60" />
+    <option name="ScrollBar.Transparent.trackColor" value="6e6e60" />
     <option name="ScrollBar.background" value="0" />
     <option name="ScrollBar.hoverThumbBorderColor" value="0" />
     <option name="ScrollBar.hoverThumbColor" value="ffffffbe" />
@@ -105,7 +105,7 @@
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value />
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff0d25" />
@@ -239,7 +239,6 @@
       <value>
         <option name="FOREGROUND" value="aaff" />
         <option name="EFFECT_COLOR" value="589df6" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -285,7 +284,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7ec3e6" />
+        <option name="FOREGROUND" value="6c029a" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -358,7 +357,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7ec3e6" />
+        <option name="FOREGROUND" value="a536da" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -579,7 +578,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="153811" />
+        <option name="BACKGROUND" value="411f13" />
       </value>
     </option>
     <option name="INLAY_DEFAULT">
@@ -611,7 +610,7 @@
         <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -652,7 +651,6 @@
         <option name="BACKGROUND" value="153811" />
       </value>
     </option>
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="LESS_VARIABLE">
       <value />
     </option>
@@ -734,7 +732,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
     <option name="SASS_MIXIN">
       <value />
     </option>
